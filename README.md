@@ -9,4 +9,5 @@ https://hal.science/hal-01212760/document
 # Project description
 This is an implementation of the above mentionned paper. The waterpixels algorithm aims to partition the image into homogenous areas with enforced regularity and adherence
 to object boundaries, which are called super-pixels or waterpixels in this case. This algorithm is based on the Watershed transformation applied to a spacially regularized gradient of the image.
-This algorithm enables us to control the number of super-pixels and their regularity, while keeping a linear complexity without post-treatment.
+This algorithm enables us to control the number of super-pixels and their regularity, while keeping a linear complexity without post-treatment.   
+Full details in the pdf report.
