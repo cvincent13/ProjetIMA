@@ -1,4 +1,4 @@
-# ProjetIMA
+# Waterpixels
 Implementation of the Waterpixels algorithms for super-pixels partition of images.
 
 Base paper:   
